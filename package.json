@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/josinaldojr/rpg_bot/issues"
   },
-  "homepage": "https://github.com/josinaldojr/rpg_bot#readme"
+  "homepage": "https://github.com/josinaldojr/rpg_bot#readme",
+  "dependencies": {
+    "discord.js": "^13.2.0"
+  }
 }
